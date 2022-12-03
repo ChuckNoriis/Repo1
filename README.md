@@ -30,5 +30,9 @@ How to make a cheap useful PC:
 4.1.1. patch display to 24 25 30 48 50 and 75 hz +
 4.1.2. patch driver
 
-
+4.2. Video 1080p
+4.2.1. Video Color Vibrance: High
+4.2.2. Enhance: Custom brightness: 8%
+4.2.3. Video Sharpness: High
+4.2.4. AMD Fluid Motion
 
