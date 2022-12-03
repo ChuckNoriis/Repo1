@@ -18,10 +18,10 @@ How to make a cheap useful PC:
 
 3. Display quality
 3.1. Eye strain
-3.1.1. Color 8b LRGB
-3.1.2. Scaling 125% Scaling
-3.1.3. Font size 118% Font size
-3.1.4. HDMI Scaling 1% + Integer scaling
+3.1.1. Color: 8b LRGB
+3.1.2. OS Scaling: 125% Scaling
+3.1.3. Font size 108%-118% Font size
+3.1.4. HDMI Scaling 1%: -
 
 4. Enjoyment
 4.1. Sync frames to display Hz
