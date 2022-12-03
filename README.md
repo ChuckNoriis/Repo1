@@ -5,6 +5,9 @@ How to make a cheap useful PC:
 1. OS
 1.1. Win10
 
+1.2. Soft
+1.2.1. Office - Microsoft Elite [Microsoft]
+
 2. Quick and responsive
 2.2. Storage
 2.2.1. nvme ssd
@@ -13,7 +16,7 @@ How to make a cheap useful PC:
 2.3. Video
 2.3.1. Adrenalin: eSports
 
-2.4. RAM
+2.4. RAM 
 
 
 3. Display quality
