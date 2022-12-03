@@ -14,8 +14,10 @@ How to make a cheap useful PC:
 
 
 3. Display quality
-3.1. Super resolution and scaling
-3.1.1. patch display for super resolution
+3.1. Eye strain
+3.1.1. Color 8b LRGB
+3.1.2. Super resolution and scaling
+3.1.3. patch display for super resolution
 
 4. Enjoyment
 4.1. Sync frames to display Hz
