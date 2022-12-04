@@ -2,7 +2,8 @@
 ## 1.1. Win10 NexusLiteOS 19044 + MSupd
 
 ## 1.2. Soft
-###  1.2.1. Office - 2021 LTSC onlinekms
+###  1.2.1. MS Edge + ublock + Font Rendering Enhancer
+###  1.2.2. Office - 2021 LTSC onlinekms
 
 # 2. SPEED
 ### 2.2. Storage
@@ -26,7 +27,7 @@
 ###  2.5.1. gbt easytune for W10: 
 
 # 3. Display quality
-## 3.1. Eye strain
+## 3.1. Text quality
 ###  3.1.1. Color: 75Hz 8b LRGB/60HzYcBR444 reduce dynamic range
 ###  3.1.2. OS Scaling: 150% Scaling
 ###  3.1.3. Font size 117% Font size
@@ -46,4 +47,6 @@
 ###  5.2.4. AMD Fluid Motion
 ###  5.2.5. KLCP and MS Store Media Extensions + av1
 
-
+# 6. Audio
+## 6.1. AMDGPU HDMI Audio
+## 6.1.1. FXSound
