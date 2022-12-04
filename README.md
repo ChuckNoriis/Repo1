@@ -23,8 +23,8 @@
 ###  2.4.1. 16G [SC?]
 ###  2.4.2. Swap on nvme
 
-## 2.5. O.C.
-###  2.5.1. gbt easytune for W10: 
+## 2.5. CPU
+###  2.5.1. O.C.
 
 # 3. Display quality
 ## 3.1. Text quality
