@@ -20,7 +20,7 @@
 ###  2.3.6. pixel clock patch
 
 ## 2.4. RAM
-###  2.4.1. 16G [SC?]
+###  2.4.1. 16G Dual Channel (DDR3_2 vddspd fix)
 ###  2.4.2. Swap on nvme
 
 ## 2.5. CPU
