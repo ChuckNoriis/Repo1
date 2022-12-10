@@ -58,7 +58,7 @@ GgiabyteEasyTune- Restart requred ~
 4GHz? https://hwbot.org/hardware/processor/core_i7_870/
 
 
-# 3. Display quality
+# 3. Display
 ## 3.1. Text quality
 ###  3.1.1. Color: 75Hz 8b LRGB/60HzYcBR444 reduce dynamic range
 ###  3.1.2. OS Scaling: 150% Scaling
@@ -66,6 +66,13 @@ GgiabyteEasyTune- Restart requred ~
 ###  3.1.4. HDMI Scaling 1%: -
 ###  3.1.5. Edge: Font Rendering Enhancer
 ###  3.1.6. Page zoom 110% -
+
+## 3.2. Dynamic range, brightness/contrast
+###  3.2.1. Splendind:Theater + 100%Brightness + ASCR: On
+###  3.2.2. ASCR: On
+###  3.2.1. Sharpness: 90
+###  3.2.1. TraceFree
+
 
 # 4. Gaming
 ## 4.1. Sync frames to display Hz
