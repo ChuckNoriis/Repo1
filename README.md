@@ -12,16 +12,14 @@
 
 
 ## 2.3. GPU VTX3D R9 290 X-EDITION GCN2 Pre-Polaris
+https://www.techpowerup.com/vgabios/?did=1002-67B1-1787-2343-00
+https://www.overclock.net/threads/hawaii-bios-editing-290-290x-295x2-390-390x.1561372/page-214
+
 Hawaii info 1.2
-
 Compatible adapters detected: 1
-
 Adapter #1 PCI ID: 1002:67B1 - 1682:9395
-
 Memory config: 0x500066AA Hynix
-
 RA1: F8010005 RA2: 00000000
-
 RB1: F8010005 RB2: 00000000
 RC1: F8010005 RC2: 00000000
 RD1: F8010005 RD2: 00000000
@@ -29,6 +27,18 @@ RD1: F8010005 RD2: 00000000
 https://www.overclock.net/threads/is-your-r9-290-unlockable-find-out-here.1445030/
 
 390 mod? https://www.overclock.net/threads/modded-r9-390x-bios-for-r9-290-290x-updated-02-16-2016.1564219/
+Memory info
+H5GC4H24AJR
+GDDR5
+4096 MB
+Density: 64MX32
+512 Bit
+Memory Channel size: 32
+Number of channels: 16
+
+Mining mod?:
+https://bitcointalk.org/index.php?topic=1614133.msg16238350#msg16238350
+
 
 ###  2.3.1. GPU PCI-e x16 2.0 BIOS settings
 ###  2.3.2. Driver Mod -Amernime Zone + Tuning
@@ -43,6 +53,10 @@ https://www.overclock.net/threads/is-your-r9-290-unlockable-find-out-here.144503
 
 ## 2.5. CPU
 ###  2.5.1. O.C.
+XTU - locked
+GgiabyteEasyTune- Restart requred ~
+4GHz? https://hwbot.org/hardware/processor/core_i7_870/
+
 
 # 3. Display quality
 ## 3.1. Text quality
@@ -68,3 +82,6 @@ https://www.overclock.net/threads/is-your-r9-290-unlockable-find-out-here.144503
 # 6. Audio
 ## 6.1. AMDGPU HDMI Audio
 ## 6.1.1. FXSound
+
+Browser:
+https://www.reddit.com/r/chrome/comments/i7qom4/the_best_chrome_extensions_i_cant_live_without/
