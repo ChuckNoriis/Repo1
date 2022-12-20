@@ -59,7 +59,7 @@ GgiabyteEasyTune- Restart requred ~
 
 
 # 3. Display
-## 3.1. Text quality
+## 3.1. Text quality (ClearType, FreeType)
 ###  3.1.1. Color: 75Hz 8b LRGB/60HzYcBR444 reduce dynamic range
 ###  3.1.2. OS Scaling: 150% Scaling
 ###  3.1.3. Font size 117% Font size
